@@ -1,0 +1,43 @@
+{
+  "id": "beyond-feats-deviant-classifications",
+  "title": "Beyond Feats: Deviant Classifications",
+  "version": "1.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "authors": [
+    {
+      "name": "Jamie Trollope",
+      "discord": "thejamtroll"
+    },
+    {
+      "name": "Max Forrest",
+      "discord": "mostly.dead"
+    }
+  ],
+  "packs": [
+    {
+      "name": "deviant-classifications",
+      "label": "Deviant Classifications",
+      "path": "packs/deviant-classifications",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "deviant-classifications-effects",
+      "label": "Deviant Classifications Effects",
+      "path": "packs/deviant-classifications-effects",
+      "type": "Item",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}

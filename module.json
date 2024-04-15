@@ -40,6 +40,6 @@
       }
     }
   ],
-  "manifest":"",
-  "download":""
+  "manifest":"https://raw.githubusercontent.com/MildlyIncandescent/Beyond-Feats-Deviant-Classifications/main/module.json",
+  "download":"https://github.com/MildlyIncandescent/Beyond-Feats-Deviant-Classifications/raw/main/Beyond-Feats-Deviant-Classifications-1.0.zip"
 }

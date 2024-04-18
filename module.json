@@ -1,7 +1,7 @@
 {
   "id": "beyond-feats-deviant-classifications",
   "title": "Beyond Feats: Deviant Classifications",
-  "version": "1.0",
+  "version": "1.1",
   "compatibility": {
     "minimum": "11",
     "verified": "11"
@@ -10,10 +10,6 @@
     {
       "name": "Jamie Trollope",
       "discord": "thejamtroll"
-    },
-    {
-      "name": "Max Forrest",
-      "discord": "mostly.dead"
     }
   ],
   "packs": [
@@ -40,6 +36,8 @@
       }
     }
   ],
+  "description": "Expand your Pathfinder 2e adventures with 10 new deviant classifications and 40 new feats. Each one opens new paths for character development. Unleash these new powers and transform the fate of your characters!",
+  "url": "https://www.pathfinderinfinite.com/product/477856/Beyond-Feats-Deviant-Classifications?src=newest_community&filters=100178",
   "manifest":"https://raw.githubusercontent.com/MildlyIncandescent/Beyond-Feats-Deviant-Classifications/main/module.json",
   "download":"https://github.com/MildlyIncandescent/Beyond-Feats-Deviant-Classifications/raw/main/Beyond-Feats-Deviant-Classifications.zip"
 }

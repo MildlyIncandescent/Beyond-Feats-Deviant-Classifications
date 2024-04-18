@@ -1,1 +1,1 @@
-This module supports the Beyond Feats: Deviant Classifications supplement for Pathfinder Second Edition.
+Expand your Pathfinder 2e adventures with 10 new deviant classifications and 40 new feats. Each one opens new paths for character development. Unleash these new powers and transform the fate of your characters! This module supports the [Beyond Feats: Deviant Classifications](https://www.pathfinderinfinite.com/product/477856/Beyond-Feats-Deviant-Classifications?src=newest_community&filters=100178) supplement for Pathfinder 2e.
